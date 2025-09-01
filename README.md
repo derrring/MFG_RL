@@ -25,7 +25,7 @@ Mean Field Games (MFGs) are a mathematical framework for modeling large-scale mu
 ### Install from source
 
 ```bash
-git clone https://github.com/yourusername/MFG_RL.git
+git clone https://github.com/derrring/MFG_RL.git
 cd MFG_RL
 pip install -e .
 ```
@@ -33,7 +33,7 @@ pip install -e .
 ### Development installation
 
 ```bash
-git clone https://github.com/yourusername/MFG_RL.git
+git clone https://github.com/derrring/MFG_RL.git
 cd MFG_RL
 pip install -e ".[dev]"
 ```
@@ -236,9 +236,9 @@ If you use this library in your research, please cite:
 ```bibtex
 @software{mfg_rl2024,
   title={MFG_RL: Reinforcement Learning for Mean Field Games},
-  author={Your Name},
+  author={derrring},
   year={2024},
-  url={https://github.com/yourusername/MFG_RL}
+  url={https://github.com/derrring/MFG_RL}
 }
 ```
 
@@ -247,12 +247,6 @@ If you use this library in your research, please cite:
 - **MFG_PDE**: PDE-based approaches for Mean Field Games
 - **Multi-Agent RL**: Traditional multi-agent reinforcement learning
 - **Game Theory**: Classical game-theoretic solution concepts
-
-## 📧 Contact
-
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **Issues**: [GitHub Issues](https://github.com/yourusername/MFG_RL/issues)
 
 ## 🙏 Acknowledgments
 
